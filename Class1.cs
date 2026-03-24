@@ -8,6 +8,7 @@ namespace iv_vjezba1
 {
     internal class Class1
     {
-        void prazna1() {}
+        void prazna2(){}
     }
 }
+//nu
